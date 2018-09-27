@@ -1,3 +1,32 @@
 Manifest-Version: 1.0
+Class-Path: ./libs/ojdbc6.jar ./libs/asm-5.0.3.jar ./libs/junit-4.12.j
+ ar ./libs/objenesis-2.1.jar ./libs/snakeyaml-1.17.jar ./libs/classmat
+ e-1.3.4.jar ./libs/json-path-2.2.0.jar ./libs/json-smart-2.2.1.jar ./
+ libs/jsonassert-1.4.0.jar ./libs/slf4j-api-1.7.25.jar ./libs/hamcrest
+ -core-1.3.jar ./libs/assertj-core-2.6.0.jar ./libs/tomcat-jdbc-8.5.34
+ .jar ./libs/tomcat-juli-8.5.34.jar ./libs/accessors-smart-1.1.jar ./l
+ ibs/jackson-core-2.8.11.jar ./libs/jul-to-slf4j-1.7.25.jar ./libs/log
+ back-core-1.1.11.jar ./libs/hamcrest-library-1.3.jar ./libs/mockito-c
+ ore-1.10.19.jar ./libs/jcl-over-slf4j-1.7.25.jar ./libs/logback-class
+ ic-1.1.11.jar ./libs/tomcat-embed-el-8.5.34.jar ./libs/log4j-over-slf
+ 4j-1.7.25.jar ./libs/spring-tx-4.3.19.RELEASE.jar ./libs/tomcat-embed
+ -core-8.5.34.jar ./libs/jackson-annotations-2.8.0.jar ./libs/jackson-
+ databind-2.8.11.2.jar ./libs/jboss-logging-3.3.2.Final.jar ./libs/spr
+ ing-aop-4.3.19.RELEASE.jar ./libs/spring-web-4.3.19.RELEASE.jar ./lib
+ s/spring-boot-1.5.16.RELEASE.jar ./libs/spring-core-4.3.19.RELEASE.ja
+ r ./libs/spring-jdbc-4.3.19.RELEASE.jar ./libs/spring-test-4.3.19.REL
+ EASE.jar ./libs/validation-api-1.1.0.Final.jar ./libs/spring-beans-4.
+ 3.19.RELEASE.jar ./libs/spring-webmvc-4.3.19.RELEASE.jar ./libs/sprin
+ g-context-4.3.19.RELEASE.jar ./libs/tomcat-annotations-api-8.5.34.jar
+  ./libs/tomcat-embed-websocket-8.5.34.jar ./libs/hibernate-validator-
+ 5.3.6.Final.jar ./libs/mysql-connector-java-5.1.47-bin.jar ./libs/spr
+ ing-boot-test-1.5.16.RELEASE.jar ./libs/spring-expression-4.3.19.RELE
+ ASE.jar ./libs/android-json-0.0.20131108.vaadin1.jar ./libs/spring-bo
+ ot-starter-1.5.16.RELEASE.jar ./libs/spring-boot-starter-web-1.5.16.R
+ ELEASE.jar ./libs/spring-boot-starter-jdbc-1.5.16.RELEASE.jar ./libs/
+ spring-boot-starter-test-1.5.16.RELEASE.jar ./libs/spring-boot-autoco
+ nfigure-1.5.16.RELEASE.jar ./libs/spring-boot-starter-tomcat-1.5.16.R
+ ELEASE.jar ./libs/spring-boot-starter-logging-1.5.16.RELEASE.jar ./li
+ bs/spring-boot-test-autoconfigure-1.5.16.RELEASE.jar
 Main-Class: com.gavin.bootdemo.DemoApplication
 
